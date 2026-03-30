@@ -28,8 +28,8 @@ The application provides interactive educational content, including quizzes and 
 
 ### 3D Model (Blender)
 
-![Chamomile Render](images/chamomile-1.png)
-![Chamomile Render](images/chamomile-2.png)
+![Chamomile model](Images/chamomile-1.png)
+![Chamomile model](Images/chamomile-2.png)
 
 ---
 
@@ -37,7 +37,7 @@ The application provides interactive educational content, including quizzes and 
 
 Scan the following image to trigger the AR experience:
 
-![Image Target](images/imagetarget.png)
+![Image Target](Images/ImageTarget.png)
 
 ---
 
